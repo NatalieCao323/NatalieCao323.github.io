@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Natalie Cao"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Natalie Cao"
+description              : &description "I am an aspiring Machine Learning Engineer with a background in applied mathematics and engineering, focused on NLP, reinforcement learning, and AI-driven decision-making. With experience developing models for financial risk, optimization, and production management, I aim to create innovative solutions that bridge theory and real-world applications in machine learning."
+url                      : https://iosmichael.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "iosmichael/iosmichael.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Natalie Cao"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "bio-profile.png"
+  bio              : "I am currently a Stanford student with background in NLP and MLE"
   location         : "735 Campus Drive, Stanford, CA"
   employer         : Stanford University
   pubmed           : 
@@ -218,7 +218,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  _publications
+  # _publications
   - scope:
       path: ""
       type: publications
