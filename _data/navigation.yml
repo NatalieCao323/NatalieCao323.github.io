@@ -1,8 +1,8 @@
 # main links links
 main:
     
-  - title: "Resume"
+  - title: "News & Update"
     url: /cv/
 
-  - title: "News & Update"
-    url: /publications/
+  # - title: "News & Update"
+  #   url: /publications/
