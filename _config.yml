@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Natalie Cao"
 title_separator          : "-"
 name                     : &name "Natalie Cao"
-description              : &description "I am an aspiring Machine Learning Engineer with a background in applied mathematics and engineering, focused on NLP, reinforcement learning, and AI-driven decision-making. With experience developing models for financial risk, optimization, and production management, I aim to create innovative solutions that bridge theory and real-world applications in machine learning."
+description              : &description "I am an aspiring MLE with a research focus on NLP, reinforcement learning, and AI-driven decision-making for financial modeling."
 url                      : https://iosmichael.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iosmichael/iosmichael.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "bio-profile.png"
   bio              : "I am currently a Stanford student with background in NLP and MLE"
   location         : "735 Campus Drive, Stanford, CA"
-  employer         : Stanford University
+  employer         : "Stanford University"
   pubmed           : 
   googlescholar    : 
   email            : "nc323@stanford.edu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/natalie-c-568a28176/"
+  linkedin         : "linkedin.com/in/natalie-c-568a28176"
   orcid            : 
   pinterest        :
   soundcloud       :
