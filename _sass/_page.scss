@@ -422,6 +422,7 @@
       background-color: #333;
       left: 50%;
       top: 50px;
+      transform: translateX(-50%);
     }
 
     &::before {
@@ -431,8 +432,9 @@
       height: 20px;
       background-color: #333;
       border-radius: 50%;
-      left: calc(50% - 10px);
+      left: 50%;
       top: 30px;
+      transform: translateX(-50%);
     }
 
     // Timeline content
@@ -457,11 +459,13 @@
 
     // Positioning of odd and even items
     &:nth-child(odd) .timeline-content {
-      left: -60%;
+      left: calc(50% - 430px); // Adjust according to content width
+      transform: translateX(-50%);
     }
 
     &:nth-child(even) .timeline-content {
-      left: 60%;
+      left: 50%;
+      transform: translateX(50%);
     }
   }
 }
