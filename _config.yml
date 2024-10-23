@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Natalie Cao"
 title_separator          : "-"
 name                     : &name "Natalie Cao"
-description              : &description "I am an aspiring MLE with a research focus on NLP, reinforcement learning, and AI-driven decision-making for financial modeling."
-url                      : https://iosmichael.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "I am an aspiring MLE with a research focus on NLP, reinforcement learning, and AI-driven decision-making for organizational management and entrepreneurship ."
+url                      : https://nataliecao323.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "iosmichael/iosmichael.github.io"
+repository               : "NatalieCao323/NatalieCao323.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

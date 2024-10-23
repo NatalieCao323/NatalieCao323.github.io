@@ -12,7 +12,7 @@ Natalie Cao is currently an MS&E student in [Management Science and Engineering]
 
 Natalie's research interests lie in applying machine learning, particularly deep learning, NLP, and reinforcement learning, to financial modeling and optimization. She focuses on improving model generalization and performance in areas like financial risk prediction, asset allocation, and AI-driven business models in the circular economy
 
-🔗 [Download My CV & Resume](https://iosmichael.github.io/files/natalie_cv.pdf)
+🔗 [Download My CV & Resume](https://nataliecao323.github.io/files/natalie_cv.pdf)
 
 ---
 

@@ -4,5 +4,8 @@ main:
   - title: "News & Update"
     url: /cv/
 
+  - title: "Teaching"
+    url: /teaching/
+
   # - title: "News & Update"
   #   url: /publications/
