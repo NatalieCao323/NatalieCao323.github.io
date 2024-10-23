@@ -15,13 +15,3 @@ main:
   # - title: "News & Update"
   #   url: /publications/
 
-# Footer links 
-footer:
-  - title: "GitHub"
-    url: "https://github.com/nataliecao323"
-    
-  - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/natalie-c-568a28176"
-    
-  - title: "ResearchGate"
-    url: "https://www.researchgate.net/profile/Natalie-Cao-2"
