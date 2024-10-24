@@ -24,16 +24,6 @@ A Web3.0 social-driven food delivery platform revolutionizing the traditional de
   - Created sustainable tokenomics model for franchise management
   - Integrated smart contract automation for real-time profit sharing
 
-#### Technical Innovation
-```mermaid
-graph LR
-    A[Traditional Delivery] --> B[Web3 Integration]
-    B --> C[NFT-F Implementation]
-    C --> D[Smart Contracts]
-    D --> E[Automated Rewards]
-    E --> F[Community Growth]
-```
-
 #### Platform Features
 - **Decentralized Governance**: Implemented DAO structure for community-driven decision making
 - **Smart Contract Integration**: Automated profit-sharing and reward distribution
