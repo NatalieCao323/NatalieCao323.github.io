@@ -8,14 +8,13 @@ author_profile: true
 
 > "Combining technological innovation with social impact to create sustainable business solutions"
 
-## Featured Ventures
 
-### Yummy Ninja | Co-founder & Chief Marketing Officer
+## Yummy Ninja | Co-founder & Chief Marketing Officer
 *San Francisco, CA | Jun 2023 - May 2024*
 
 A Web3.0 social-driven food delivery platform revolutionizing the traditional delivery ecosystem through blockchain technology and social engagement.
 
-#### Key Achievements
+### Key Achievements
 - 🏆 Secured $200,000 in seed funding through innovative pitch strategy
 - 🤝 Established strategic partnership with DoorDash, America's largest food delivery platform
 - 💡 Pioneered NFT-F (Non-Fungible Token - Franchise) technology
@@ -23,7 +22,7 @@ A Web3.0 social-driven food delivery platform revolutionizing the traditional de
   - Created sustainable tokenomics model for franchise management
   - Integrated smart contract automation for real-time profit sharing
 
-#### Platform Features
+### Platform Features
 - **Decentralized Governance**: Implemented DAO structure for community-driven decision making
 - **Smart Contract Integration**: Automated profit-sharing and reward distribution
 - **Social Engagement**: Built-in content creation and sharing capabilities
@@ -31,18 +30,18 @@ A Web3.0 social-driven food delivery platform revolutionizing the traditional de
 
 ---
 
-### TripACE | Founder & CEO
+## TripACE | Founder & CEO
 *Jiangsu Province, China | 2019 - 2020*
 
 A social impact investing firm focused on sustainable rural development and education accessibility through technology-enabled business solutions.
 
-#### Impact Metrics
+### Impact Metrics
 - 📊 Investigated 30+ villages and towns
 - 👥 Surveyed 100+ families
 - 💫 Enabled sustainable income generation for rural communities
 - 📱 Introduced digital transformation solutions
 
-#### Key Initiatives
+### Key Initiatives
 1. **Digital Transformation**
    - Implemented livestream sales channels for agricultural produce
    - Trained local businesses in digital marketing
