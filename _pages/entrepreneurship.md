@@ -69,16 +69,6 @@ A social impact investing firm focused on sustainable rural development and educ
    - Implemented impact measurement frameworks
    - Created scalable rural development strategies
 
-#### Social Impact Results
-| Area | Impact |
-|------|---------|
-| Business Development | 30+ local enterprises supported |
-| Digital Adoption | 80% of participating businesses launched online presence |
-| Education Access | Increased school retention rates in target communities |
-| Income Generation | Average 40% increase in participating family incomes |
-
----
-
 ## Innovation Philosophy 💭
 
 > "Technology-driven solutions with sustainable social impact"
