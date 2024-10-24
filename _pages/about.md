@@ -14,7 +14,7 @@ Natalie's research interests lies at the intersection of AI/ML and organizationa
 
 ## Research Interests
 
-- AI for Organizational Decision-Making (Causal Inference for Strategic Decision-Making, Organizational Behavior Analytics, Evidence-Based Management Systems, Strategic Decision Analytics)
+- AI for Organizational Decision-Making (Causal Inference for Strategic Decision-Making, Management Systems, Strategic Decision Analytics)
 - Machine Learning for Business Innovation (Natural Language Processing in Business, Reinforcement Learning Applications, Large Language Models for Enterprise, Sustainable Business Intelligence)
 - Entrepreneurship & Innovation Analytics (Data-Driven Venture Development, Technology Strategy Optimization)
 
