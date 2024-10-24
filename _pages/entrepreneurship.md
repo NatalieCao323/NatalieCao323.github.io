@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Entrepreneurship"
+title: "Entrepreneurship & Innovation 🚀"
 permalink: /entrepreneurship/
 author_profile: true
 ---
 
-# Entrepreneurship & Innovation 🚀
 
 > "Combining technological innovation with social impact to create sustainable business solutions"
 
