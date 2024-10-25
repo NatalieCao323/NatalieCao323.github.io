@@ -10,7 +10,7 @@ redirect_from:
 
 Natalie Cao is currently an MS&E student in [Management Science and Engineering](https://msande.stanford.edu) with a concentration in Computational Social Science at [Stanford University](https://www.stanford.edu). Prior to Stanford, Natalie earned her B.S in [Applied Mathematics](https://math.duke.edu/applied-math-analysis-events) with Scholarship Award from [Duke University](https://duke.edu) ([Duke Kunshan University](https://www.dukekunshan.edu.cn)).
 
-Natalie's research interests lies at the intersection of AI/ML and organizational decision-making, with a focus on developing robust AI systems that drive business innovation and sustainable practices. I combine deep technical expertise in NLP and Reinforcement Learning with strong interests in causal inference, organizational strategy, and entrepreneurship.
+Natalie's research interests lies at the intersection of AI/ML and organizational decision-making, with a focus on developing robust AI systems that drive business innovation and sustainable practices. She combines deep technical expertise in NLP and Reinforcement Learning with strong interests in causal inference, organizational strategy, and entrepreneurship.
 
 ## Research Interests
 
