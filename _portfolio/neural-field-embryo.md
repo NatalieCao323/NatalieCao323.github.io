@@ -68,6 +68,6 @@ Through 3D reconstruction, we can:
 
 ---
 
-**Duration**: April 2024 - June 2024  
+**Duration**: September 2025 - Present  
 **Lab**: Qiu Lab, Department of Genetics & Computer Science, Stanford University  
 **Advisor**: Professor Xiaojie Qiu

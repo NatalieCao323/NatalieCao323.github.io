@@ -55,7 +55,7 @@ I am currently working on several projects in the [Qiu Lab](https://qiulab.stanf
 
 ## Research Experience 🔬
 
-**[Mar 2025 - Present] Virtual Cell/Embryo and Single Cell/Spatial Genomics Dataset Modeling** — Qiu Lab, Stanford University  
+**[Mar 2024 - Present] Virtual Cell/Embryo and Single Cell/Spatial Genomics Dataset Modeling** — Qiu Lab, Stanford University  
 *Advisor: [Professor Xiaojie Qiu](https://qiulab.stanford.edu/), Dept. of Genetics & Computer Science*  
 Methods: scRNA-seq, spatial transcriptomics, RNA velocity/kinetics, PyTorch, neural fields, graph neural networks
 
@@ -69,10 +69,10 @@ Developed Variance-Regularized Value Optimization (VRVO) method for improved RL 
 
 ## Open Source Contributions 💻
 
-**[Apr 2024 - Jun 2024] Neural Field: Generative Framework for 3D Embryo Reconstruction**  
+**[Sep 2025 - Present] Neural Field: Generative Framework for 3D Embryo Reconstruction**  
 Contributor to `aristoteleo/neural_field` — Integrated Transformer-based spatial encodings and VAE modules for reconstructing 3D embryo structures from 2D spatial transcriptomic slices
 
-**[Apr 2024 - Jun 2024] Dynamo-Release: Dynamic Modeling for Single-Cell Trajectories** ([472★ GitHub](https://github.com/aristoteleo/dynamo-release))  
+**[Aug 2025 - Present] Dynamo-Release: Dynamic Modeling for Single-Cell Trajectories** ([472★ GitHub](https://github.com/aristoteleo/dynamo-release))  
 Open-source contributor — Enhanced model compatibility with AnnData ≥0.10, improved preprocessing and visualization for RNA velocity analysis
 
 **[Apr 2024 - Jun 2024] SENTINEL: AI-Generated Text Detection** (CS 224N Project)  
@@ -80,7 +80,7 @@ Developed heterogeneous ensemble framework achieving 94.98% accuracy on Kaggle b
 
 ## Professional Experience 💼
 
-**[Jun 2024 - Present] Machine Learning Engineer Summer Intern** — [Sahara AI](https://saharalabs.ai) (San Francisco, CA)  
+**[Jun 2024 - Sep 2024] Machine Learning Engineer Summer Intern** — [Sahara AI](https://saharalabs.ai) (San Francisco, CA)  
 Built real-time Twitter sentiment analysis pipeline with BERT and transformers, achieving 50% fine-grained emotion recognition accuracy
 
 **[Aug 2022 - Aug 2023] AI Data Operation Intern (Part-time)** — [Ping An Technology](https://tech.pingan.com) (Beijing, China)  
@@ -91,7 +91,7 @@ Developed RL-based asset allocation model integrating 1992-2020 macroeconomic da
 
 ## Teaching Experience 👩‍🏫
 
-**[Aug 2024 - Dec 2024] Teaching Assistant** — MS&E 152 & 252: Decision Analysis I & II, Stanford University
+**[Aug 2024 - Dec 2024, Jan 2025 - Mar 2025] Teaching Assistant** — MS&E 152 & 252: Decision Analysis I & II, Stanford University
 
 **[Jun 2024 - Aug 2024] Teaching Assistant** — MS&E 180: Organizations: Theory and Management, Stanford University
 

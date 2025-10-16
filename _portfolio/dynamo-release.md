@@ -110,7 +110,7 @@ Dynamo learns continuous **vector fields** from RNA velocity data, enabling:
 
 ---
 
-**Duration**: April 2024 - June 2024  
+**Duration**: August 2025 - Present  
 **Role**: Open-Source Contributor  
 **Lab**: Qiu Lab, Department of Genetics & Computer Science, Stanford University  
 **Project Lead**: Professor Xiaojie Qiu  
