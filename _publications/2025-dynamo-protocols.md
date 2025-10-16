@@ -3,9 +3,9 @@ title: "Predictive Modeling of Single Cell Transcriptomic Dynamics with Dynamo"
 collection: publications
 permalink: /publication/2025-dynamo-protocols
 excerpt: 'A comprehensive protocol for RNA velocity vector field learning, differential geometry analyses, and predictive modeling of cell fate transitions including optimal reprogramming and in silico genetic perturbation predictions.'
-date: 2025-02-01
+date: 2099-02-01
 venue: 'Nature Protocols (under review)'
-citation: 'Zeng, Z., Yu, S., Ni, K., Zhang, Y., Shin, U., Huang, C., Cao, N., Weissman, J., Xing, J., & Qiu, X. (2025). &quot;Predictive Modeling of Single Cell Transcriptomic Dynamics with Dynamo.&quot; <i>Nature Protocols</i>, under review.'
+citation: 'Zeng, Z., Yu, S., Ni, K., Zhang, Y., Shin, U., Huang, C., Cao, N., Weissman, J., Xing, J., & Qiu, X. (under review). &quot;Predictive Modeling of Single Cell Transcriptomic Dynamics with Dynamo.&quot; <i>Nature Protocols</i>.'
 ---
 
 ## Abstract

@@ -3,9 +3,9 @@ title: "Towards a Predictive Virtual Embryo with Genomics and AI"
 collection: publications
 permalink: /publication/2025-virtual-embryo
 excerpt: 'A conceptual framework proposing multi-scale, cross-modal predictive modeling of embryonic development using hierarchical graph neural networks, flow matching, and transformers to enable in silico embryology and congenital disease prediction.'
-date: 2025-01-01
+date: 2099-01-01
 venue: 'Nature Methods (under review)'
-citation: 'Cao, N., & Qiu, X. (2025). &quot;Towards a Predictive Virtual Embryo with Genomics and AI.&quot; <i>Nature Methods</i>, under review.'
+citation: 'Cao, N., & Qiu, X. (under review). &quot;Towards a Predictive Virtual Embryo with Genomics and AI.&quot; <i>Nature Methods</i>.'
 ---
 
 ## Abstract

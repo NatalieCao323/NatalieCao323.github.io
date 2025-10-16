@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in [Management Science and Engineering](https://msande.stanford.edu) at [Stanford University](https://www.stanford.edu), where I work with [Professor Xiaojie Qiu](https://qiulab.stanford.edu/) in the Department of Genetics and Computer Science. My research focuses on developing computational frameworks for **predictive modeling of embryonic development** through the integration of spatial transcriptomics, single-cell genomics, and machine learning.
+I am a Master's student in [Management Science and Engineering](https://msande.stanford.edu) at [Stanford University](https://www.stanford.edu), where I work with [Professor Xiaojie Qiu](https://med.stanford.edu/profiles/xiaojie-qiu) in the Department of Genetics and Computer Science. My research focuses on developing computational frameworks for **predictive modeling of embryonic development** through the integration of spatial transcriptomics, single-cell genomics, and machine learning.
 
 Prior to Stanford, I earned my B.S. in [Applied Mathematics](https://math.duke.edu/applied-math-analysis-events) with Scholarship Award (top 5%) from [Duke University](https://duke.edu) and [Duke Kunshan University](https://www.dukekunshan.edu.cn), where I developed a strong foundation in dynamical systems, stochastic modeling, and numerical analysis.
 
@@ -24,7 +24,7 @@ My research lies at the intersection of **machine learning**, **computational bi
 
 ## Current Research
 
-I am currently working on several projects in the [Qiu Lab](https://qiulab.stanford.edu/):
+I am currently working on several projects in the [Qiu Lab](https://www.devo-evo.com/):
 
 **Virtual Embryo Framework** — Leading the conceptual design and manuscript preparation for a Nature Comment proposing a multi-scale, cross-modal framework for predictive embryo modeling using hierarchical graph neural networks, flow matching, and transformers.
 
@@ -38,13 +38,13 @@ I am currently working on several projects in the [Qiu Lab](https://qiulab.stanf
 
 ## Publications & Manuscripts 📕
 
-### Computational Biology & Genomics
+### Manuscripts in Preparation / Under Review
 
-- **Lu, Y., Cao, N., & Qiu, X.** "3D Reconstruction of the Spatial Transcriptomics with Neural Field." *To be submitted to Nature Biotechnology*, in preparation.
+- **Lu, Y., Cao, N., & Qiu, X.** (in preparation). "3D Reconstruction of the Spatial Transcriptomics with Neural Field." *To be submitted to Nature Biotechnology*.
 
-- **Cao, N. & Qiu, X.** "Towards a Predictive Virtual Embryo with Genomics and AI." *Nature Methods*, under review.
+- **Cao, N. & Qiu, X.** (under review). "Towards a Predictive Virtual Embryo with Genomics and AI." *Nature Methods*.
 
-- **Zeng, Z., Yu, S., Ni, K., Zhang, Y., Shin, U., Huang, C., Cao, N., Weissman, J., Xing, J., & Qiu, X.** (2025). "Predictive Modeling of Single Cell Transcriptomic Dynamics with Dynamo." *Nature Protocols*, under review.
+- **Zeng, Z., Yu, S., Ni, K., Zhang, Y., Shin, U., Huang, C., Cao, N., Weissman, J., Xing, J., & Qiu, X.** (under review). "Predictive Modeling of Single Cell Transcriptomic Dynamics with Dynamo." *Nature Protocols*.
 
 ### Machine Learning & AI
 
@@ -56,7 +56,7 @@ I am currently working on several projects in the [Qiu Lab](https://qiulab.stanf
 ## Research Experience 🔬
 
 **[Mar 2024 - Present] Virtual Cell/Embryo and Single Cell/Spatial Genomics Dataset Modeling** — Qiu Lab, Stanford University  
-*Advisor: [Professor Xiaojie Qiu](https://qiulab.stanford.edu/), Dept. of Genetics & Computer Science*  
+*Advisor: [Professor Xiaojie Qiu](https://med.stanford.edu/profiles/xiaojie-qiu), Dept. of Genetics & Computer Science*  
 Methods: scRNA-seq, spatial transcriptomics, RNA velocity/kinetics, PyTorch, neural fields, graph neural networks
 
 **[Apr 2024 - Jul 2024] Deep Learning for Consumption and Production Management in Circular Economy** — Stanford GSB  

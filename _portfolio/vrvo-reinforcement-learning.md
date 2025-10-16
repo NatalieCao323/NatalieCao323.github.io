@@ -156,25 +156,6 @@ These parallels inspired my transition to computational biology, where similar m
 2. **Drug Discovery**: Optimizing treatment strategies
 3. **Protein Design**: Reinforcement learning for sequence optimization
 
-## Lessons Learned
-
-### Technical Insights
-- **Regularization is Critical**: Variance control improves generalization
-- **Theory Guides Practice**: Mathematical analysis informed algorithm design
-- **Benchmarking Matters**: Rigorous evaluation on standard benchmarks
-
-### Research Skills
-- **Experimental Design**: Systematic ablation studies
-- **Mathematical Derivation**: Theoretical analysis of algorithms
-- **Scientific Writing**: Manuscript preparation and peer review
-
-### Career Impact
-This project:
-- Strengthened my mathematical and algorithmic foundations
-- Developed intuition for modeling adaptive systems
-- Inspired my transition to computational biology
-- Provided transferable skills for biological modeling
-
 ---
 
 **Duration**: April 2023 - September 2023  

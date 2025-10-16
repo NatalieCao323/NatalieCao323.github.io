@@ -69,5 +69,5 @@ Through 3D reconstruction, we can:
 ---
 
 **Duration**: September 2025 - Present  
-**Lab**: Qiu Lab, Department of Genetics & Computer Science, Stanford University  
-**Advisor**: Professor Xiaojie Qiu
+**Lab**: [Qiu Lab](https://www.devo-evo.com/), Department of Genetics & Computer Science, Stanford University  
+**Advisor**: [Professor Xiaojie Qiu](https://med.stanford.edu/profiles/xiaojie-qiu)

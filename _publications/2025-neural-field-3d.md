@@ -3,9 +3,9 @@ title: "3D Reconstruction of the Spatial Transcriptomics with Neural Field"
 collection: publications
 permalink: /publication/2025-neural-field-3d
 excerpt: 'A differentiable framework for reconstructing 3D embryonic structures from 2D spatial transcriptomic slices using neural field models with Transformer-based positional encodings and VAE modules.'
-date: 2025-03-01
+date: 2099-03-01
 venue: 'Nature Biotechnology (in preparation)'
-citation: 'Lu, Y., Cao, N., & Qiu, X. (2025). &quot;3D Reconstruction of the Spatial Transcriptomics with Neural Field.&quot; To be submitted to <i>Nature Biotechnology</i>.'
+citation: 'Lu, Y., Cao, N., & Qiu, X. (in preparation). &quot;3D Reconstruction of the Spatial Transcriptomics with Neural Field.&quot; To be submitted to <i>Nature Biotechnology</i>.'
 ---
 
 ## Abstract

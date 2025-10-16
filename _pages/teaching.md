@@ -5,22 +5,45 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching 🏫
+## Teaching Experience
 
-[Incoming Spring Quarter] Teaching Assistant @ [MS&E 152: Decision Analysis I: Introduction to Decision Analysis](https://dara.stanford.edu/classes/mse-252)
+### Teaching Assistant - MS&E 152 & 252: Decision Analysis I & II
+**Stanford University** | Aug 2024 - Dec 2024, Jan 2025 - Mar 2025
 
-### Course description: 
+#### Course Description
+Coherent approach to decision making using structured conversations and actional thought to achieve clarity of action. Topics include distinctions, possibilities and probabilities, relevance, value of information and experimentation, decision diagrams, and risk attitude. Principles are applied to decisions in business, technology, law, and medicine.
 
-How to make good decisions in a complex, dynamic, and uncertain world. People often make decisions that on close examination they regard as wrong. Decision analysis uses a structured conversation based on actional thought to obtain clarity of action in a wide variety of domains. Topics: distinctions, possibilities and probabilities, relevance, value of information and experimentation, relevance and decision diagrams, risk attitude. 
+#### Responsibilities & Skills Applied
+- **Problem Session Instruction**: Led weekly computational problem sessions applying mathematical modeling and probabilistic analysis to real-world decision scenarios
+- **Mathematical Modeling**: Guided students in formulating decision problems using probability theory, utility functions, and optimization frameworks
+- **Computational Analysis**: Developed and graded assignments involving numerical methods, Monte Carlo simulations, and sensitivity analysis using Python and R
+- **Office Hours**: Provided one-on-one support on mathematical concepts including Bayesian inference, expected value calculations, and decision tree analysis
+- **Curriculum Development**: Created problem sets integrating stochastic modeling, differential equations, and optimization techniques
+- **Student Mentorship**: Advised students on course projects applying decision analysis to healthcare, technology, and policy domains
 
-[Aug 2024 - Present] Teaching Assistant @ [MS&E 252: Decision Analysis I: Foundations of Decision Analysis](https://dara.stanford.edu/classes/mse-252)
+#### Mathematical & Computational Skills Utilized
+- Probability theory and Bayesian inference
+- Stochastic modeling and Monte Carlo methods
+- Optimization algorithms and sensitivity analysis
+- Numerical computation (Python, R)
+- Statistical analysis and data visualization
 
-### Course description: 
+---
 
-Coherent approach to decision making, using the metaphor of developing a structured conversation having desirable properties, and producing actional thought that leads to clarity of action. Socratic instruction; computational problem sessions. Emphasis is on creation of distinctions, representation of uncertainty by probability, development of alternatives, specification of preference, and the role of these elements in creating a normative approach to decisions. Information gathering opportunities in terms of a value measure. Relevance and decision diagrams to represent inference and decision. Principles are applied to decisions in business, technology, law, and medicine. See 352 for continuation.
+### Teaching Assistant - MS&E 180: Organizations: Theory and Management
+**Stanford University** | Jun 2024 - Aug 2024
 
-[June 2024 - Sep 2024] Teaching Assistant @ [MS&E 180: Organizations: Theory and Management](https://bulletin.stanford.edu/courses/1045311)
+#### Course Description
+Classical and contemporary organization theory; the behavior of individuals, groups, and organizations.
 
-### Course description: 
+#### Responsibilities & Skills Applied
+- **Discussion Facilitation**: Led discussion panels on organizational theory and management practices
+- **Quantitative Analysis**: Graded assignments involving statistical analysis of organizational data and network models
+- **Project Evaluation**: Assessed group projects applying mathematical frameworks to organizational behavior
+- **Analytical Support**: Assisted students with quantitative methods for analyzing organizational structures and decision-making processes
 
-For undergraduates only; preference to MS&E majors. Classical and contemporary organization theory; the behavior of individuals, groups, and organizations.
+#### Mathematical & Computational Skills Utilized
+- Network analysis and graph theory
+- Statistical modeling of organizational behavior
+- Data analysis and interpretation
+- Quantitative research methods

@@ -129,18 +129,6 @@ While developed for NLP, SENTINEL's techniques are highly transferable to comput
 4. **Explainability**: Provide human-readable justifications
 5. **Real-time Monitoring**: Continuous detection in production systems
 
-## Lessons Learned
-
-### Technical
-- **Ensemble Diversity**: Combining different model families improves robustness
-- **Feature Engineering**: Domain knowledge enhances deep learning
-- **Hyperparameter Tuning**: Critical for optimal performance
-
-### Practical
-- **Data Quality**: Clean, diverse training data is essential
-- **Evaluation**: Multiple metrics needed for comprehensive assessment
-- **Deployment**: Production systems require latency/accuracy tradeoffs
-
 ---
 
 **Duration**: April 2024 - June 2024  
