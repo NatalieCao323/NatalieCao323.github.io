@@ -3,15 +3,15 @@ main:
   - title: "About"
     url: /about/
     
-  - title: "News & Update"
-    url: /cv/
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Research"
+    url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/
-
-  - title: "Entrepreneurship"
-    url: /entrepreneurship/
-
-  # - title: "News & Update"
-  #   url: /publications/
+    
+  - title: "CV"
+    url: /cv/
 

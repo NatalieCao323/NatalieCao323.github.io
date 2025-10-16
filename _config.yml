@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Natalie Cao"
 title_separator          : "-"
 name                     : &name "Natalie Cao"
-description              : &description "Stanford MS&E master at the intersection of AI/ML and organizational strategy, focusing on NLP, reinforcement learning, and causal inference for business innovation."
+description              : &description "Stanford MS&E graduate pursuing computational biology research at the intersection of machine learning and developmental genomics, with focus on predictive modeling of embryonic development and spatial transcriptomics."
 url                      : https://nataliecao323.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NatalieCao323/NatalieCao323.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Natalie Cao"
   avatar           : "bio-profile.png"
-  bio              : "Stanford MS&E graduate student researching AI/ML expertise with organizational strategy and entrepreneurship"
+  bio              : "Computational Biology Researcher | Machine Learning + Developmental Genomics | Building Predictive Models of Embryonic Development"
   location         : "735 Campus Drive"
   employer         : "Stanford University"
   pubmed           : 
