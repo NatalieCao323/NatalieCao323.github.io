@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About Natalie Cao"
+title: "Natalie Cao - Computational Biology Researcher | Stanford University"
+excerpt: "Natalie Cao is a computational biology researcher at Stanford University specializing in machine learning, developmental genomics, and spatial transcriptomics for predictive modeling of embryonic development."
 author_profile: true
 redirect_from: 
   - /about/
