@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Natalie Cao - Computational Biology Researcher | Stanford University"
-excerpt: "Natalie Cao is a computational biology researcher at Stanford University specializing in machine learning, developmental genomics, and spatial transcriptomics for predictive modeling of embryonic development."
+title: "Natalie Cao (曹绮桐) - Computational Biology Researcher | Stanford University"
+excerpt: "Natalie Cao (曹绮桐) is a computational biology researcher at Stanford University specializing in machine learning, developmental genomics, and spatial transcriptomics for predictive modeling of embryonic development."
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I am a Master's student in [Management Science and Engineering](https://msande.stanford.edu) at [Stanford University](https://www.stanford.edu), where I work with [Professor Xiaojie Qiu](https://med.stanford.edu/profiles/xiaojie-qiu) in the Department of Genetics and Computer Science. My research develops computational frameworks for **predictive modeling of embryonic development** through the integration of spatial transcriptomics, single-cell genomics, and machine learning.
+I am Natalie Cao (曹绮桐), a Master's student in [Management Science and Engineering](https://msande.stanford.edu) at [Stanford University](https://www.stanford.edu), where I work with [Professor Xiaojie Qiu](https://med.stanford.edu/profiles/xiaojie-qiu) in the Department of Genetics and Computer Science. My research develops computational frameworks for **predictive modeling of embryonic development** through the integration of spatial transcriptomics, single-cell genomics, and machine learning.
 
 Prior to Stanford, I earned my B.S. in Applied Mathematics with Scholarship Award (top 5%) from Duke University and Duke Kunshan University, where I developed a strong foundation in dynamical systems, stochastic modeling, and numerical analysis.
 

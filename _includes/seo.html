@@ -41,7 +41,7 @@
 
 <meta name="description" content="{{ seo_description }}">
 <meta name="author" content="{{ site.author.name }}">
-<meta name="keywords" content="Natalie Cao, Stanford, computational biology, machine learning, developmental genomics, spatial transcriptomics, embryonic development, bioinformatics, neural networks, Duke University">
+<meta name="keywords" content="Natalie Cao, 曹绮桐, Stanford, computational biology, machine learning, developmental genomics, spatial transcriptomics, embryonic development, bioinformatics, neural networks, Duke University, 斯坦福大学, 计算生物学">
 <meta property="og:locale" content="{{ site.locale | default: "en" }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
@@ -133,6 +133,7 @@
       "@context": "https://schema.org",
       "@type": "{{ site.seo.type | default: 'Person' }}",
       "name": "{{ site.seo.name | default: site.name }}",
+      "alternateName": "曹绮桐",
       "url": "{{ site.url }}",
       "sameAs": {{ site.seo.links | jsonify }},
       "jobTitle": "Computational Biology Researcher",
